@@ -4,6 +4,7 @@
    padding: 0;
 }
 
+/* HEADER */
 header {
     background-image: url(../img/pattern.png);
     background-size: contain;
@@ -19,7 +20,12 @@ header img{
     position: absolute;
     bottom: 0;
 }
+/* /HEADER */
 
+
+
+
+/* STRUMENTI PER LA SCRITTURA */
 .scritta_minuscola{
     font-size: small;
 }
@@ -32,10 +38,19 @@ header img{
     color: aqua;
 }
 
-.sezione_1{
+/* INIZIO MAIN */
+main section{
     padding: 15px;
 }
 
+
+/* SEZIONE 1 */
 .sezione_1 h1{
     font-size: 50px;
 }
+/* /SEZIONE 1 */
+
+
+/* SEZIONE 2 */
+/* /SEZIONE 2 */
+
