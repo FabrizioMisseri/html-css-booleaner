@@ -70,4 +70,33 @@ main section{
 .sezione_5 table tbody tr:first-child , .sezione_5 table tbody tr:last-child{
     background-color: aqua;
 }
+/* /SEZIONE */
+/* FINE MAIN */
 
+
+/* INIZIO FOOTER */
+footer{
+    padding: 15px;
+}
+
+footer div{
+    width: 250px;
+    height: 250px;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: large;
+    font-weight: bolder;
+}
+
+#monitor{
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+}
+
+#graph{
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+}
+/* FINE FOOTER */
