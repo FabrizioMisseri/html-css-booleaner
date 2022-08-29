@@ -49,6 +49,9 @@ main section{
     padding: 15px;
 }
 
+ul{
+    padding-left: 30px;
+}
 
 /* SEZIONE TITOLO*/
 .sezione_1 h1{
@@ -61,6 +64,7 @@ main section{
 .sezione_5 table{
     width: 100%;
 }
+
 
 .sezione_5 table th{
     color: white;
