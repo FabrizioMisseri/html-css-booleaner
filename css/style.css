@@ -38,19 +38,21 @@ header img{
     color: aqua;
 }
 
+.evidenziatore{
+    background-color: yellow;
+    color: red;
+}
+
+
 /* INIZIO MAIN */
 main section{
     padding: 15px;
 }
 
 
-/* SEZIONE 1 */
+/* SEZIONE TITOLO*/
 .sezione_1 h1{
     font-size: 50px;
 }
-/* /SEZIONE 1 */
-
-
-/* SEZIONE 2 */
-/* /SEZIONE 2 */
+/* /SEZIONE */
 
