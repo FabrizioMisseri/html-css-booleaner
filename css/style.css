@@ -20,3 +20,22 @@ header img{
     bottom: 0;
 }
 
+.scritta_minuscola{
+    font-size: small;
+}
+
+.scritta_grigia{
+    color: grey;
+}
+
+.scritta_azzurra{
+    color: aqua;
+}
+
+.sezione_1{
+    padding: 15px;
+}
+
+.sezione_1 h1{
+    font-size: 50px;
+}
