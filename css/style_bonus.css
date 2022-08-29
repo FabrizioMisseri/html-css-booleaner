@@ -19,6 +19,7 @@
      max-height: 70%;    
      position: absolute;
      bottom: 0;
+     left: 6%;
  }
  /* /HEADER */
  
@@ -104,3 +105,10 @@
      background-size: cover;
  }
  /* FINE FOOTER */
+
+
+ /* BONUS AGGIUNTA CONTAINER */
+ .container{
+    padding-left: 5%;
+    padding-right: 5%;
+ }
