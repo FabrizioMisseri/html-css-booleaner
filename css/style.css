@@ -56,3 +56,18 @@ main section{
 }
 /* /SEZIONE */
 
+
+/* SEZIONE TABELLA */
+.sezione_5 table{
+    width: 100%;
+}
+
+.sezione_5 table th{
+    color: white;
+    background-color: rgb(0, 153, 255);
+}
+
+.sezione_5 table tbody tr:first-child , .sezione_5 table tbody tr:last-child{
+    background-color: aqua;
+}
+
